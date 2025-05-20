@@ -5,13 +5,6 @@ This repository contains a Python notebook that extracts geographic coordinates 
 
 ---
 
-## Files Used  
-
-- **`KML_Location_Clustering.ipynb`**: Jupyter notebook containing all code for reading, processing, clustering, and visualizing the geographic data.  
-- **Input KML file (user uploaded)**: Contains coordinates stored in XML format (`<Placemark><Point><coordinates>`).
-
----
-
 ## Workflow and Logic  
 
 ### 🔹 Step 1: Extract Coordinates  
